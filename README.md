@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zhangdongq&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zhangdongq.visitor-badge&left_color=green&right_color=red)
 
 
 ![Metrics](/github-metrics.svg)
