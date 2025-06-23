@@ -10,6 +10,7 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 SCSS         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangdongq)
 
 <!--END_SECTION:waka-->
 
