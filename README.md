@@ -1,4 +1,5 @@
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 
 ![Metrics](/github-metrics.svg)
 
